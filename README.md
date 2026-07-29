@@ -1,4 +1,4 @@
-# introdução a Machine Learning - Dell Lead
+# introdução a machine learning - Dell Lead
 
 <p align="center">
   <img src="https://old.cdn.leadfortaleza.com.br/portal/dal/gallery/image-1601388651936_1652327462886.png" alt="Dell Lead Logo" width="350"/>
@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre o Curso
+## sobre o curso
 
 Repositório criado para armazenar os notebooks, atividades e datasets do curso **Introdução a Machine Learning**, oferecido pelo projeto **Lead (Dell/Fortaleza)**.
 
@@ -16,13 +16,13 @@ Repositório criado para armazenar os notebooks, atividades e datasets do curso 
 
 ---
 
-## Objetivo Geral
+## objetivo geral
 
 Desenvolver habilidades analíticas e conhecer os algoritmos básicos de Machine Learning, utilizando a linguagem de programação Python para solução de problemas práticos de dados.
 
 ---
 
-## Conteúdo
+## conteúdo
 
 <details>
 <summary><b>1. INTRODUÇÃO A MACHINE LEARNING</b></summary>
@@ -73,7 +73,7 @@ Desenvolver habilidades analíticas e conhecer os algoritmos básicos de Machine
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 estrutura do repositório
 
 ```text
 .
