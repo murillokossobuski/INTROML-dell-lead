@@ -1,4 +1,4 @@
-# introdução a Machine Learning — Dell Lead
+# introdução a Machine Learning - Dell Lead
 
 <p align="center">
   <img src="https://old.cdn.leadfortaleza.com.br/portal/dal/gallery/image-1601388651936_1652327462886.png" alt="Dell Lead Logo" width="350"/>
