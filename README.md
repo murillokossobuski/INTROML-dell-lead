@@ -1,4 +1,4 @@
-# Introdução a Machine Learning — Dell Lead
+# introdução a Machine Learning — Dell Lead
 
 <p align="center">
   <img src="https://old.cdn.leadfortaleza.com.br/portal/dal/gallery/image-1601388651936_1652327462886.png" alt="Dell Lead Logo" width="350"/>
@@ -6,28 +6,22 @@
 
 ---
 
-## 📌 Sobre o Curso
+## Sobre o Curso
 
 Repositório criado para armazenar os notebooks, atividades e datasets do curso **Introdução a Machine Learning**, oferecido pelo projeto **Lead (Dell/Fortaleza)**.
 
-* **Carga Horária:** 36:00 horas
-* **Formato:** 5 Aulas Online com Acompanhamento Pedagógico
-* **Alcance:** +1000 Alunos
+* **Carga Horária:** 36 horas
 * **Linguagem Principal:** Python 🐍
 * **Link Oficial:** [leadfortaleza.com.br/ead/home](https://leadfortaleza.com.br/ead/home)
 
 ---
 
-## 🎯 Objetivo Geral
+## Objetivo Geral
 
 Desenvolver habilidades analíticas e conhecer os algoritmos básicos de Machine Learning, utilizando a linguagem de programação Python para solução de problemas práticos de dados.
-
-### 📋 Pré-requisitos
-* Conhecimento prévio na linguagem **Python**.
-
 ---
 
-## 📚 Conteúdo Programático
+## Conteúdo
 
 <details>
 <summary><b>1. INTRODUÇÃO A MACHINE LEARNING</b></summary>
