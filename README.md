@@ -1,9 +1,7 @@
-[# Introdução a Machine Learning — Dell Lead
+# Introdução a Machine Learning — Dell Lead
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Dell_logo_2016.svg" alt="Dell Logo" width="140" style="margin-right: 30px; vertical-align: middle;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://leadfortaleza.com.br/ead/pluginfile.php/1/theme_adaptable/logo/1715082158/Logo_LEAD_horizontal_cor.png" alt="Lead Dell Logo" width="220" style="vertical-align: middle;"/>
+  <img src="https://old.cdn.leadfortaleza.com.br/portal/dal/gallery/image-1601388651936_1652327462886.png" alt="Dell Lead Logo" width="350"/>
 </p>
 
 ---
@@ -94,4 +92,3 @@ Desenvolver habilidades analíticas e conhecer os algoritmos básicos de Machine
 │   └── atividade1-2.ipynb
 │
 └── README.md                  # Documentação do repositório
-](https://old.cdn.leadfortaleza.com.br/portal/dal/gallery/image-1601388651936_1652327462886.png)
