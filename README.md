@@ -19,6 +19,7 @@ Repositório criado para armazenar os notebooks, atividades e datasets do curso 
 ## Objetivo Geral
 
 Desenvolver habilidades analíticas e conhecer os algoritmos básicos de Machine Learning, utilizando a linguagem de programação Python para solução de problemas práticos de dados.
+
 ---
 
 ## Conteúdo
